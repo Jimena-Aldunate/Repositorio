@@ -1,0 +1,49 @@
+body {
+    background:url("https://i.pinimg.com/originals/38/d3/0e/38d30ecfe41c21551c043443d330d637.gif");
+    background-size: 100%;
+  }
+
+h1{
+    color:rgb(236, 170, 95);
+    font-size:5em; 
+    position:relative;
+    left: 240px;
+    text-shadow: 4px 4px 4px black;
+}
+  
+
+.caja1{
+    background: rgb(231, 113, 133);
+    width: 500px;
+    height: 250px;
+    position:relative;
+    left: 170px;
+    top: 0;
+    border: 10px solid;
+    border-color: rgb(243, 179, 190);
+}
+
+.caja1 p{
+     font-size: 20px;
+     text-align: center;
+     line-height: 25px;
+     text-shadow: 1px 0px 0px rgb(48, 69, 167);
+}
+
+.caja2{
+    background: rgb(235, 159, 132);
+    width: 100px;
+    height: 50px;
+    position:relative;
+    left: 868px;
+    top: -94px;
+    border: 10px solid;
+    border-color: rgb(26, 1, 5);
+}
+
+.caja2 p{
+    font-size: 20px;
+    text-align: center;
+    line-height: 10px;
+    text-shadow: 1px 0px 0px rgb(4, 7, 20);
+}
